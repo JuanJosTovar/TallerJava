@@ -1,0 +1,35 @@
+1. ¿Qué es un método en Java?
+
+Es una fracción de codigo dentro del sistema que nos permite realizar un tipo de proceso especifico.
+
+2.¿Cuáles son los cuatro tipos de métodos en Java?
+
+Metodos sin retorno y sin parametros
+Metodos sin retorno y con parametros
+Metodos con retorno y sin parametros
+Metodos con retorno y con parametros
+
+3.¿Cuál es la diferencia entre un método con parametros y sin retorno y un método sin parametros y con retorno?
+
+Un método con parametros y sin retorno tendra uno o varios valores como entrada y poder realizar su ejecución, sin embargo este no retornara ningun valor al finalizar. Este método es utilizado para hacer tareas que necesitan mas información para completarlas.
+
+Un método sin parametros y con retorno no va tener ningun valor como entrada, pero estos devolveran un valor al terminar su ejecución. Este método se utiliza para realizar calculos y obtener información que sera utilizada porsteriormente.
+
+4.¿Cuál es la diferencia entre un método con parametros y con retorno y un método com parametros y sin retorno?
+
+Un método con parametros y con retorno va arecibir uno o mas valores de entrada y al finalizar su ejecución retornara un valor. Este método es utilizado para calculos complejos que necesitan información para completar las tareas. Mientras que un metodo con parametros y sin retorno realizara la ejecución de su resoectivo procedimiento con la información que proporcione el usuario pero sin devolver nada.
+
+5.¿Por que son importantes los metodos en Java?
+
+Estos son importantes ya que nos permiten agrupar ciertas funcionalidades, para no repetir muchos procesos y con esto evitando que nuestro codigo sea muy extenso, también esto nos permitira la reutilización de codigo ya existente haciendo mas agil el sistema. 
+
+6.¿Qué es una estructura de datos?
+
+Es una forma organizada y eficiente de alamcenar y gestionar datos en la memoria de un programa.
+Estas estructuras son importantes para resolver problemas y realizar operaciones.
+
+7.¿Cual es la diferencia entre un arreglo, un arrayList y un HashMap?
+
+La diferencia entre un arreglo y un arrayList es que los arreglos tienen un tamaño fijo mientras que un arrayList es de crecimiento dinamico y su tamaño se moldea a medida que el usuario ingrese datos o valores, también este se puede trabajar con funciones tales como .add, .remove, .size, etc.
+
+El HashMap por otro lado no trabaja de la misma manera que un arreglo o un arrayList, es una estructura de dato al igual que estos, sin embargo este almacena los datos de forma (clave, valor) y trabaja con funciones tales como .put, .remove, .contains, etc.
